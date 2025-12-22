@@ -1,0 +1,16 @@
+tt.*
+.tests
+doc/tags
+debug
+.repro
+foo.*
+*.log
+data
+
+# cache
+.cache/
+.plugin/
+
+# lazy.nvim
+lazy-lock.json
+
