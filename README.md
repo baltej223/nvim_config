@@ -21,9 +21,9 @@ git clone git@github.com:baltej223/nvim_config.git ~/.config/nvim
 
 ## Keybindings
 
-- <leader> -> space key
-- <leader><leader> -> find files
-- <leader>bd -> Close Current Buffer
+- `<leader>` -> space key
+- `<leader><leader>` -> find files
+- `<leader>bd` -> Close Current Buffer
 
 ## Plugins
 
