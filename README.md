@@ -1,5 +1,5 @@
 # Neovim Config
-
+<img width="1920" height="1145" alt="image" src="https://github.com/user-attachments/assets/5b3bc374-2f4c-4f88-97d4-993e01fa9059" />
 ## Requirements
 
 - Neovim
