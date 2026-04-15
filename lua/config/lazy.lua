@@ -51,3 +51,25 @@ require("lazy").setup({
     },
   },
 })
+
+-- require("lspconfig").rust_analyzer.setup({
+--   settings = {
+--     ["rust-analyzer"] = {
+--       cargo = {
+--         allFeatures = true,
+--       },
+--       checkOnSave = {
+--         command = "clippy",
+--       },
+--     },
+--   },
+-- })
+--
+
+-- require("lspconfig").ts_ls.setup({})
+
+local lspconfig = require("lspconfig")
+
+lspconfig.ts_ls.setup({})
+
+lspconfig.gopls.setup({})
